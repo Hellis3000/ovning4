@@ -1,0 +1,14 @@
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\SkalProj_Datastrukturer_Minne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\SkalProj_Datastrukturer_Minne.AssemblyInfoInputs.cache
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\SkalProj_Datastrukturer_Minne.AssemblyInfo.cs
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\SkalProj_Datastrukturer_Minne.csproj.CoreCompileInputs.cache
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\bin\Debug\net6.0\SkalProj_Datastrukturer_Minne.exe
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\bin\Debug\net6.0\SkalProj_Datastrukturer_Minne.deps.json
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\bin\Debug\net6.0\SkalProj_Datastrukturer_Minne.runtimeconfig.json
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\bin\Debug\net6.0\SkalProj_Datastrukturer_Minne.dll
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\bin\Debug\net6.0\SkalProj_Datastrukturer_Minne.pdb
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\SkalProj_Datastrukturer_Minne.dll
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\refint\SkalProj_Datastrukturer_Minne.dll
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\SkalProj_Datastrukturer_Minne.pdb
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\SkalProj_Datastrukturer_Minne.genruntimeconfig.cache
+C:\Users\Hellis\Desktop\skal\SkalProj_Datastrukturer_Minne\obj\Debug\net6.0\ref\SkalProj_Datastrukturer_Minne.dll
